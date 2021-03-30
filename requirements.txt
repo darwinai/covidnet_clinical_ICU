@@ -1,0 +1,7 @@
+pandas
+pickle-mixin
+tensorflow==1.15.4
+scikit-learn
+numpy
+keras
+xlrd
